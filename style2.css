@@ -1,0 +1,21 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #e8f8ff !important;
+    line-height: 1.6;
+  }
+  
+  .nv0 {
+    background-color: #e8f8ff !important;
+  }
+  
+  footer {
+    background-color: #333;
+  }
+  
